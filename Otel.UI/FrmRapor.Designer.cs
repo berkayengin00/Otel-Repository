@@ -76,9 +76,9 @@ namespace Otel.UI
             this.columnHeader10});
 			this.lstRapor.Dock = System.Windows.Forms.DockStyle.Bottom;
 			this.lstRapor.HideSelection = false;
-			this.lstRapor.Location = new System.Drawing.Point(0, 220);
+			this.lstRapor.Location = new System.Drawing.Point(0, 193);
 			this.lstRapor.Name = "lstRapor";
-			this.lstRapor.Size = new System.Drawing.Size(1141, 458);
+			this.lstRapor.Size = new System.Drawing.Size(1136, 458);
 			this.lstRapor.TabIndex = 2;
 			this.lstRapor.UseCompatibleStateImageBehavior = false;
 			this.lstRapor.View = System.Windows.Forms.View.Details;
@@ -209,7 +209,7 @@ namespace Otel.UI
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(1141, 678);
+			this.ClientSize = new System.Drawing.Size(1136, 651);
 			this.Controls.Add(this.btnTumListe);
 			this.Controls.Add(this.btnTarihFiltrele);
 			this.Controls.Add(this.dtpCikisTarihi);

@@ -121,7 +121,7 @@ namespace Otel.UI
 					rezervasyon.RezarvasyonUcreti = rezarvasyonUcreti;
 
 					rezervasyonlar.Add(rezervasyon);
-					grpMusteriBilgileri.Enabled = false;
+					
 					FormuTemizle();
 				}
 				else
@@ -148,6 +148,8 @@ namespace Otel.UI
 			secilenButon.Enabled = false;
 			secilenButon = null;
 			//ValidationTool.ResetAllControls(this);
+
+			grpMusteriBilgileri.Enabled = false;
 		}
 
 		private bool Validasyon()
