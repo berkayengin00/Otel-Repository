@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otel.UI", "Otel.UI\Otel.UI.csproj", "{7721F2A1-EE6C-4877-A5DC-ECA4FC65C914}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7721F2A1-EE6C-4877-A5DC-ECA4FC65C914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7721F2A1-EE6C-4877-A5DC-ECA4FC65C914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7721F2A1-EE6C-4877-A5DC-ECA4FC65C914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7721F2A1-EE6C-4877-A5DC-ECA4FC65C914}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3A04F5A-3B58-4634-9320-85F281FE43B6}
+	EndGlobalSection
+EndGlobal
